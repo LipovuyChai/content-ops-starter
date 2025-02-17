@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Говоріть як хочете, перекладу як треба :)'
+      text: Допомагаємо вам подолати мовний бар'єр
       color: text-dark
       type: TitleBlock
     subtitle: Поміч в адміністративних справах

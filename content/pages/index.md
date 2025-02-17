@@ -7,7 +7,7 @@ sections:
       text: Допомагаємо вам подолати мовний бар'єр
       color: text-dark
       type: TitleBlock
-    subtitle: Shrek Shrek t
+    subtitle: ''
     text: ''
     actions:
       - label: Заказати Переклад

@@ -67,7 +67,7 @@ sections:
           padding:
             - pt-2
             - pb-2
-            - pl-2
+            - pl-8
             - pr-2
           borderColor: border-dark
           borderStyle: solid

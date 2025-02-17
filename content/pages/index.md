@@ -10,7 +10,7 @@ sections:
     subtitle: Поміч в адміністративних справах
     text: ''
     actions:
-      - label: Get started
+      - label: Заказати Переклад
         altText: ''
         url: /
         showIcon: false

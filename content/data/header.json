@@ -43,7 +43,7 @@
         {
             "label": "Замовити переклад",
             "url": "/",
-            "icon": "arrowRight",
+            "icon": "chevronDown",
             "iconPosition": "right",
             "style": "primary",
             "type": "Button"

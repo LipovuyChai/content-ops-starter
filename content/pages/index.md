@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - type: CarouselSection
-    subtitle: Про-Переклад
+    subtitle: Послуги перекладача в Франції
     items:
       - type: FeaturedItem
         title: >-

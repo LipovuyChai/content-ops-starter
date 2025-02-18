@@ -8,7 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: ''
+    text: |
+      ggygi
     actions:
       - label: Заказати Переклад
         altText: ''

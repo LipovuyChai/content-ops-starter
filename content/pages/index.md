@@ -149,7 +149,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: Наші досягнення у цифрах
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center

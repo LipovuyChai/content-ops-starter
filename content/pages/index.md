@@ -72,6 +72,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
   - type: GenericSection
     title:
       text: Допомагаємо вам подолати мовний бар'єр

@@ -9,10 +9,10 @@ sections:
         title: '“Говоріть як хочете, перекладем як треба.”'
         tagline: Testimonial 1
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Ми забезпечуємо якісний та точний переклад у будь якій ситуації.
+          Незалежно від того, чи вам потрібен письмовий або усний переклад, ми
+          допоможемо передати зміст правильно, зрозуміло та без втрат.
         image:
           type: ImageBlock
           url: /images/Preview.png

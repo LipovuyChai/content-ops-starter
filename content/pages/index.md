@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - type: CarouselSection
-    subtitle: Послуги перекладача в Франції
+    subtitle: Послуги перекладача в Парижі
     items:
       - type: FeaturedItem
         title: '“Говоріть як хочете, перекладем як треба.”'

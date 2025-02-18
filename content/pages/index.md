@@ -73,7 +73,6 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
-        textDecoration: underline
   - type: GenericSection
     title:
       text: Допомагаємо вам подолати мовний бар'єр

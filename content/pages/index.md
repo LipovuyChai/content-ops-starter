@@ -7,7 +7,7 @@ sections:
     items:
       - type: FeaturedItem
         title: '“Говоріть як хочете, перекладем як треба.”'
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: Нагірний Артур
         text: >
 

@@ -148,7 +148,7 @@ sections:
     hoverEffect: move-up
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Наші досягнення у цифрах
       color: text-dark
       styles:
         self:
